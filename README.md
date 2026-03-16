@@ -1,4 +1,4 @@
-# GenAI Study Notes Generator
+📚 GenAI Study Notes Generator
 
 This is a Generative AI application that generates study notes for a given topic using Gemini API.
 
