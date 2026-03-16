@@ -7,4 +7,4 @@ Python
 Google Colab
 Gemini API
 
-Author: Sinchana
+
